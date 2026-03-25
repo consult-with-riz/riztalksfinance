@@ -2,6 +2,8 @@
 
 Personal website for [riztalksfinance.com](https://riztalksfinance.com) — a personal finance brand helping early-to-mid career professionals build financial security.
 
+Github website [here](https://consult-with-riz.github.io/riztalksfinance/)
+
 ---
 
 ## Live site
